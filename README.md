@@ -25,6 +25,7 @@ docker pull amine2733/qt-opencv-cuda
 ## Option 2: Build the Docker image locally
 
 git clone https://github.com/belarbi2733/qt-opencv-cuda.git
+
 cd qt-opencv-cuda
 
 docker build -t qt .

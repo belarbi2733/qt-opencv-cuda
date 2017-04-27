@@ -32,6 +32,7 @@ docker build -t qt .
 # Running the Docker image as a Container :
 
 cd qt-opencv-cuda
+
 sudo sh script.sh
 
 ### taper la commande suivante direct dans le terminal:

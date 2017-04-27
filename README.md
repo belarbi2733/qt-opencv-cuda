@@ -34,9 +34,7 @@ docker build -t qt .
 
 cd qt-opencv-cuda
 
-sh script1.sh
-
-sudo script2.sh
+sudo sh script.sh
 
 ### taper la commande suivante direct dans le terminal:
 

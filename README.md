@@ -36,7 +36,10 @@ cd qt-opencv-cuda
 
 sudo sh script.sh
 
-### taper la commande suivante direct dans le terminal:
+### Type the following command in the terminal :
 
 qt-docker
 
+# Note :
+
+All qt projets should save in the directory /home/developer/qt-projets, to share them with the Host Machine in : /opt/qt-projetcs 
